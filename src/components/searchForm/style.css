@@ -18,11 +18,10 @@
 
 #searchBar {
     color: white;
-    background-color: #010409;
+    background-color: transparent;
     border: 1px solid grey;
     border-radius: 7px;
     margin-bottom: 20px;
-    text-align: center;
 }
 
 #searchButton {
@@ -31,8 +30,6 @@
     color: grey;
     border: 1px solid grey;
     border-radius: 6px;
-    height: fit-content;
-    
 }
 
 /* #searchButton :hover {
